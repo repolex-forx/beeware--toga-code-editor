@@ -1,0 +1,11 @@
+{
+  "org": "beeware",
+  "repo": "toga-code-editor",
+  "versions": [
+    {
+      "commit": "d5bd0d2bbeb691b1ef6ca11f76b31b2ec29c0549",
+      "tag": "",
+      "parsed_at": "2026-11-07T12:09:04.671190+00:00"
+    }
+  ]
+}
